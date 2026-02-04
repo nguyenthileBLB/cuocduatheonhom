@@ -1,0 +1,5 @@
+{
+  "name": "SmartExam",
+  "description": "Ứng dụng tạo và làm bài thi trực tuyến. Giáo viên có thể tự soạn đề thi, và học sinh có thể làm bài ngay trên điện thoại.",
+  "requestFramePermissions": []
+}
